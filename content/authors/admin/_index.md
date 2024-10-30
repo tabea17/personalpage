@@ -179,4 +179,4 @@ awards:
 
 ## About Me
 
-Tabea Rebafka is a professor AgroParisTech teaching courses in statistics and machine learning. She does her research at MIA lab, AgroParisTech/INRAE. Her research interests include machine learning algorithms, random graph models, deep generative models, uncertainty quantification for applications in ecology, biology and materials science. She has various responsabilities at AgroParisTech and Université Paris Saclay. 
+Tabea Rebafka is a professor AgroParisTech teaching courses in statistics and machine learning. She does her research at MIA lab, AgroParisTech/INRAE. Her research interests include machine learning algorithms, random graph models, deep generative models, uncertainty quantification for applications in ecology, biology and materials science. She has various responsabilities at AgroParisTech and Université Paris Saclay.  
