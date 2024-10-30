@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Homepage of Tabea Rebafka
+title: Tabea Rebafka
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -48,7 +48,7 @@ interests:
   - Applications in ecology, biology and materials science
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: PhD Statistics
     institution: Stanford University
     date_start: 2016-01-01
     date_end: 2020-12-31
