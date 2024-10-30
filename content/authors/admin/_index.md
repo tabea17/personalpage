@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Professor in Statistical Machine Learning
+role: Professor in Machine Learning and Statistics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,25 +31,21 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:tabea.rebafka1@agroparistech.fr'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://github.com/tabea17
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=TgF0v48AAAAJ&hl=fr&oi=ao
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/tabea-rebafka-7112a5122/   
 
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests:  
+  - Statistical and ML algorithms
+  - Random graph models
+  - Deep generative models
+  - Uncertainty quantification
+  - Applications in ecology, biology and materials science
 
 education:
   - area: PhD Artificial Intelligence
@@ -183,4 +179,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Tabea Rebafka is a professor AgroParisTech teaching courses in statistics and machine learning. She does her research at MIA lab, AgroParisTech/INRAE. Her research interests include machine learning algorithms, random graph models, deep generative models, uncertainty quantification for applications in ecology, biology and materials science. She has various responsabilities at AgroParisTech and Université Paris Saclay. 

@@ -4,9 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: Personal Homepage of Tabea Rebafka
+title: Tabea Rebafka
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: 'https://tabea17.github.io/personalpage/'
 
 ############################
 ## LANGUAGE
