@@ -58,28 +58,27 @@ education:
       text: 'Read Thesis'
       url: 'https://theses.fr/2009ENST0018'
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Professeure
+    company_name: MIA, AgroParisTech / INRAE, Université Paris Saclay
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-09-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      Responsibilités :
+      - Directrice de l'UFR de mathématiques
+      - Co-responsable du Master Mathématiques pour les Science du Vivant (MSV), Université Paris Saclay
+      - Animation de l'axe Mathématiques pour les Science du Vivant à la Fondation Mathématique Jacques Hadamard (FMJH)
+  - position: Maîtresse de conférences
+    company_name: LPSM, Sorbonne Université
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2010-09-01
+    date_end: 2024-08-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Responsibilités :
+      - Directrice adjointe du LPSM, 2021-2024
+      - Responsable du Master de Statistique, 2017–2022
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
