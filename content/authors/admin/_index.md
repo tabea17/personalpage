@@ -48,15 +48,15 @@ interests:
   - Applications in ecology, biology and materials science
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD in Statistics
+    institution: Telecom ParisTech and CEA Saclay
+    date_start: 2006-10-15
+    date_end: 2009-10-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer.
+      Supervised by [Franois Roueff] (https://example.com) and Antoine Souloumiac.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'https://theses.fr/2009ENST0018'
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
