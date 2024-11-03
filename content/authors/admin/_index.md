@@ -53,7 +53,7 @@ education:
     date_start: 2006-10-15
     date_end: 2009-10-30
     summary: |
-      Supervised by [Franois Roueff] (https://example.com) and Antoine Souloumiac.
+      Supervised by [François Roueff] (https://perso.telecom-paristech.fr/roueff/) and Antoine Souloumiac.
     button:
       text: 'Read Thesis'
       url: 'https://theses.fr/2009ENST0018'
@@ -80,47 +80,6 @@ work:
       - Directrice adjointe du LPSM, 2021-2024
       - Responsable du Master de Statistique, 2017–2022
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
-
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
