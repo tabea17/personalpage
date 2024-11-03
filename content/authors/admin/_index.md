@@ -57,7 +57,8 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  work:
+ 
+ work:
   - position: Professeure
     company_name: MIA, AgroParisTech / INRAE, Université Paris Saclay
     company_url: ''
