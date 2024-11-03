@@ -49,10 +49,11 @@ interests:
 
 education:
   - area: PhD in Statistics
-    institution: Telecom ParisTech and CEA Saclay
+    institution: Télécom ParisTech and CEA Saclay
     date_start: 2006-11-01
     date_end: 2009-10-31
-    summary: ''
+    summary: |
+      Supervised by Francois Roueff and Antoine Souloumiac.
     button:
       text: 'Read Thesis'
       url: 'https://theses.fr/2009ENST0018'
