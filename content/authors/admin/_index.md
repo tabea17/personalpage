@@ -49,7 +49,7 @@ interests:
 
 education:
   - area: PhD in Statistics
-    institution: Télécome ParisTech and CEA Saclay
+    institution: Telecom ParisTech and CEA Saclay
     date_start: 2006-11-01
     date_end: 2009-10-31
     summary: ''
