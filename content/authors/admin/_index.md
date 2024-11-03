@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Tabea Rebafka
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Tabea
+last_name: Rebafka
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,36 +20,32 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role:  Professor in Machine Learning and Statistics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name:  MIA, AgroParisTech / INRAE, Université Paris Saclay
+    url: https://mia-ps.inrae.fr/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:tabea.rebafka1@agroparistech.fr'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://github.com/tabea17
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=TgF0v48AAAAJ&hl=fr&oi=ao
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/tabea-rebafka-7112a5122/   
 
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests:  
+  - Statistical and ML algorithms
+  - Random graph models
+  - Deep generative models
+  - Uncertainty quantification
+  - Applications in ecology, biology and materials science
 
 education:
   - area: PhD Artificial Intelligence
