@@ -53,7 +53,7 @@ education:
     date_start: 2006-11-01
     date_end: 2009-10-31
     summary: |
-      Supervised by Francois Roueff and Antoine Souloumiac.
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://theses.fr/2009ENST0018'
