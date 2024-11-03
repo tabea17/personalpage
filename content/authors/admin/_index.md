@@ -66,7 +66,7 @@ work:
     date_end: ''
     summary: |2-
       Responsibilités :
-      - Directrice de l'UFR de mathématiques
+      - Directrice de l'UFR de mathématiques, AgroParisTech
       - Co-responsable du Master Mathématiques pour les Science du Vivant (MSV), Université Paris Saclay
       - Animation de l'axe Mathématiques pour les Science du Vivant à la Fondation Mathématique Jacques Hadamard (FMJH)
   - position: Maîtresse de conférences
@@ -78,7 +78,7 @@ work:
     summary: |
       Responsibilités :
       - Directrice adjointe du LPSM, 2021-2024
-      - Responsable du Master de Statistique, 2017–2022
+      - Responsable du Master de Statistique, Sorbonne Université, 2017–2022
 ---
  
 ## About Me
