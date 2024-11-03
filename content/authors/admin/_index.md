@@ -48,12 +48,11 @@ interests:
   - Applications in ecology, biology and materials science
 
 education:
-  - area: PhD Statistics
+  - area: PhD in Statistics
     institution: Télécome ParisTech and CEA Saclay
     date_start: 2006-11-01
     date_end: 2009-10-31
-    summary: |
-      Supervised by François Roueff and Antoine Souloumiac.
+    summary: ''
     button:
       text: 'Read Thesis'
       url: 'https://theses.fr/2009ENST0018'
